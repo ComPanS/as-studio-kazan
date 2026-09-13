@@ -1,0 +1,12 @@
+{
+  "sourceUrl": "https://studioaskzn.ru/",
+  "openingClassification": "website",
+  "stage": 1,
+  "implementedRoutes": ["/"],
+  "deferredRoutes": ["/prices", "/about", "/gallery", "/contacts"],
+  "sourceMobileStatus": "limited",
+  "assetCounts": { "logo": 1, "primaryPhotos": 1, "portfolioPhotos": 4 },
+  "gallerySource": "https://yandex.ru/maps/org/studiya_krasoty_alii_sitdikovoy/173755641726/gallery/",
+  "deploymentAuthorized": false,
+  "lastUpdated": "2026-09-13"
+}
